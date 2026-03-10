@@ -3,57 +3,98 @@
 <head>
 <meta charset="UTF-8">
 <title>Web sencilla</title>
- <link rel="stylesheet" href="estilo.css">
+<link rel="stylesheet" href="estilos.css">
 </head>
  
 <body>
  
 <header>
-<h1>Kawasaki Ninja H2R</h1>
-</header>
- 
- <!-- MENÚ -->
+  <h1>Kawasaki Ninja H2R</h1>
+  </header>
+   <!-- MENÚ -->
 <nav>
 <a href="index.html">Inicio</a>
 <a href="especificaciones.html">Especificaciones</a>
-<a href="partes.html">Partes</a>
+ <a href="Partes.html">Partes</a>
 </nav>
  
 <main>
  
-    <div class="seccion" id="Especificaciones">
-<h2>Especificaciones</h2>
-<p>-Cilindrada: 998 cm³ <p>
-  -Potencia máxima: 228 kW {310 CV} / 14.000 rpm <p> -Velocidad máxima de entre 370 km/h y 400 km/h <p> -Transmisión: 6 velocidades <p> -El motor del H2 es un 16 válvulas, 4 cilindros en línea, doble árbol de levas en cabeza y un sobrealimentador centrífugo de dos velocidades <p> - El control del acelerador es electrónico <p> -Tiene un bastidor tubular de acero de pared delgada y un basculante de un solo lado , con una distancia entre ejes de moto deportiva tradicional de 1450 mm
-      
+    <div class="seccion" id="Partes">
+<h2>Partes</h2>
+<p>
+  1. Motor: Motor de 4 cilindros en línea (998 cc). Compresor centrífugo (supercharger). Culata. Pistones. Cigüeñal. Árboles de levas. Válvulas. Sistema de refrigeración (radiador)
+      </p>
+<p>
+2. Transmisión: Embrague. Caja de cambios de 6 velocidades. Cadena de transmisión. Piñón y corona
+      </p>
+<p>
+  3. Chasis: Chasis tubular de acero. Subchasis trasero. Basculante
+      </p>
+      <p>
+  4. Suspensión: Horquilla delantera (Öhlins). Amortiguador trasero
+      </p>
+      <p>
+ 5. Sistema de frenos: Discos de freno delanteros. Pinzas de freno Brembo. Disco trasero. Bomba de freno
+      </p>
+      <p>
+ 6. Ruedas: Llanta delantera. Llanta trasera. Neumáticos de competición
+      </p>
+      <p>
+ 7. Aerodinámica: Carenado de fibra de carbono. Alerones laterales (winglets) para estabilidad a alta velocidad
+      </p>
+      <p>
+8. Electrónica: ECU (unidad de control del motor). Control de tracción. Launch control. Quickshifter. Sensores IMU
+      </p>
+      <p>
+
+ 9. Otros componentes: Depósito de combustible. Escape de titanio. Estriberas. Manillar. Asiento
+
       </p>
 </div>
  
     <div class="seccion especial" id="Diseño">
 <div class="imagen">
-<img src="https://www.mundomotero.com/wp-content/uploads/2017/08/Kawasaki-H2-2019-1024x683-9.jpg"
+<img src="https://www.super-hobby.es/zdjecia/3/1/3/18712_2_tam14131_8.jpg"
      alt="Imagen ejemplo">
 </div>
- 
-        <div class="texto" id="Modelos">
-<h2>Diseño</h2>
-<p>
-               El diseño hiperdeportivo de la Ninja H2R ABS proyecta una fuerza intensa, convirtiéndose en un producto de belleza funcional. Todos y cada uno de sus ángulos, desde las aletas de fibra de carbono hasta el guardabarros delantero, están diseñados para aportar unas prestaciones y un estilo sin precedentes.
+
+                
 </p>
 </div>
-</div>
+  </div>
  
     <div class="seccion">
-<h2>Modelos</h2>
+<h2>Aportaciones</h2>
 <p>
--La versión original de la H2R se lanzó alrededor de 2015/2016 y ha estado en producción con actualizaciones menores cada año. 
+  <table>
+  <tr>
+    <th></th>
+    <th>Información</th>
+   
+  </tr>
+  <tr>
+    <td>Motor sobrealimentado	
+	</td>
+    <td>Genera la gran potencia de la moto</td>
+  </tr>
+      <tr>
+    <td>Aerodinámica con alerones</td>
+    <td>Mejora la estabilidad a altas velocidades </td>
+  </tr>
+    <td>Electrónica avanzada</td>
+    <td>Controla la tracción y optimiza el rendimiento</td>
+</table>
+
 <p>
 
--Ninja H2R 2022: Esencialmente la misma máquina con especificaciones de motor supercargado de 998 cc y ~310 PS con ram-air. 
 <p>
--Ninja H2R 2025/2026: Kawasaki mantiene la H2R como modelo de pista “closed course”. Para 2026 se habla de algunas mejoras en el paquete electrónico, aerodinámica y control del chasis, pero sigue siendo el mismo modelo básico con ~310 PS y estructura trellis. 
+
 
 </p>
+  </div>
+      <div class="seccion" id="Especificaciones">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/j6hDLjr07Kg?si=Gb57LIhJLFP1KVu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
  <nav>
    <a href="Especifica"
@@ -64,4 +105,4 @@
 </footer>
  
 </body>
-</html>
+  </html>
